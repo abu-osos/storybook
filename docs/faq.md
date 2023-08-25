@@ -228,7 +228,7 @@ If you're in a Storybook composition scenario, where you have multiple Storybook
 Introduce a single `.mdx` story (addon-essentials or addon-docs required), that serves as an Introduction page, like so:
 
 ```mdx
-// Introduction.mdx
+<!-- Introduction.mdx -→
 # Welcome
 
 Some description here
